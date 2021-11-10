@@ -28,4 +28,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TNOpanska19&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgray)
+![](https://komarev.com/ghpvc/?username=TNOpanska19&color=lightgray)
