@@ -1,12 +1,14 @@
 ### Hi, I'm Tereza Opanska - [TNOpanska19](https://github.com/TNOpanska19/) 👋!
 
-<img align="left" alt="arson.gif" src="Images/arson.gif" />
+<img align="right" alt="arson.gif" src="Images/arson.gif"/>
 
 ### About me:
 - 🗼 &nbsp; Studying at [@codingburgas](https://github.com/codingburgas)
 - 🎲 &nbsp; Drink it, smoke it, snort it, shoot it. You got one body, you got to use it.
 - 🎵 &nbsp; Fun fact: Listening to music increases intelligence
 - 📬 &nbsp; If you need to reach me: TNOpanska19@codingburgas.bg
+
+<br>
 
 <details>
   <summary>Languages</summary>
