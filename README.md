@@ -1,6 +1,8 @@
-<h1 style = "text-align: center;">Hi, I'm Tereza Opanska - [TNOpanska19](https://github.com/TNOpanska19/) 👋!</h1>
+### Hi, I'm Tereza Opanska - [TNOpanska19](https://github.com/TNOpanska19/) 👋!
 
-<img align="center" alt="arson.gif" src="Images/arson.gif" />
+<p align="center">
+	<img align="center" alt="arson.gif" src="Images/arson.gif" />
+</p>
 
 ### About me:
 - 🗼 &nbsp; Studying at [@codingburgas](https://github.com/codingburgas)
