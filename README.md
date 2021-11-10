@@ -1,8 +1,6 @@
 ### Hi, I'm Tereza Opanska - [TNOpanska19](https://github.com/TNOpanska19/) 👋!
 
-<p align="center">
-	<img align="center" alt="arson.gif" src="Images/arson.gif" />
-</p>
+<img align="left" alt="arson.gif" src="Images/arson.gif" />
 
 ### About me:
 - 🗼 &nbsp; Studying at [@codingburgas](https://github.com/codingburgas)
